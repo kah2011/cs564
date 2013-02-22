@@ -1,0 +1,2657 @@
+Found record: hello! on page 1
+Found record: hello! on page 2
+Found record: hello! on page 3
+Found record: hello! on page 4
+Found record: hello! on page 5
+Third page has a new record: world!
+
+allocPage start
+allocPage newPageEnd
+clockHand 99, index 0
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 99
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 0 
+allocPage start
+allocPage newPageEnd
+clockHand 99, index 0
+clockHand 0, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 0
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 1 
+allocPage start
+allocPage newPageEnd
+clockHand 0, index 0
+clockHand 1, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 1
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 2 
+allocPage start
+allocPage newPageEnd
+clockHand 1, index 0
+clockHand 2, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 2
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 3 
+allocPage start
+allocPage newPageEnd
+clockHand 2, index 0
+clockHand 3, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 3
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 4 
+allocPage start
+allocPage newPageEnd
+clockHand 3, index 0
+clockHand 4, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 4
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 5 
+allocPage start
+allocPage newPageEnd
+clockHand 4, index 0
+clockHand 5, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 5
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 6 
+allocPage start
+allocPage newPageEnd
+clockHand 5, index 0
+clockHand 6, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 6
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 7 
+allocPage start
+allocPage newPageEnd
+clockHand 6, index 0
+clockHand 7, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 7
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 8 
+allocPage start
+allocPage newPageEnd
+clockHand 7, index 0
+clockHand 8, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 8
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 9 
+allocPage start
+allocPage newPageEnd
+clockHand 8, index 0
+clockHand 9, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 9
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 10 
+allocPage start
+allocPage newPageEnd
+clockHand 9, index 0
+clockHand 10, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 10
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 11 
+allocPage start
+allocPage newPageEnd
+clockHand 10, index 0
+clockHand 11, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 11
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 12 
+allocPage start
+allocPage newPageEnd
+clockHand 11, index 0
+clockHand 12, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 12
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 13 
+allocPage start
+allocPage newPageEnd
+clockHand 12, index 0
+clockHand 13, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 13
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 14 
+allocPage start
+allocPage newPageEnd
+clockHand 13, index 0
+clockHand 14, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 14
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 15 
+allocPage start
+allocPage newPageEnd
+clockHand 14, index 0
+clockHand 15, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 15
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 16 
+allocPage start
+allocPage newPageEnd
+clockHand 15, index 0
+clockHand 16, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 16
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 17 
+allocPage start
+allocPage newPageEnd
+clockHand 16, index 0
+clockHand 17, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 17
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 18 
+allocPage start
+allocPage newPageEnd
+clockHand 17, index 0
+clockHand 18, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 18
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 19 
+allocPage start
+allocPage newPageEnd
+clockHand 18, index 0
+clockHand 19, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 19
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 20 
+allocPage start
+allocPage newPageEnd
+clockHand 19, index 0
+clockHand 20, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 20
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 21 
+allocPage start
+allocPage newPageEnd
+clockHand 20, index 0
+clockHand 21, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 21
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 22 
+allocPage start
+allocPage newPageEnd
+clockHand 21, index 0
+clockHand 22, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 22
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 23 
+allocPage start
+allocPage newPageEnd
+clockHand 22, index 0
+clockHand 23, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 23
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 24 
+allocPage start
+allocPage newPageEnd
+clockHand 23, index 0
+clockHand 24, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 24
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 25 
+allocPage start
+allocPage newPageEnd
+clockHand 24, index 0
+clockHand 25, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 25
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 26 
+allocPage start
+allocPage newPageEnd
+clockHand 25, index 0
+clockHand 26, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 26
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 27 
+allocPage start
+allocPage newPageEnd
+clockHand 26, index 0
+clockHand 27, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 27
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 28 
+allocPage start
+allocPage newPageEnd
+clockHand 27, index 0
+clockHand 28, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 28
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 29 
+allocPage start
+allocPage newPageEnd
+clockHand 28, index 0
+clockHand 29, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 29
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 30 
+allocPage start
+allocPage newPageEnd
+clockHand 29, index 0
+clockHand 30, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 30
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 31 
+allocPage start
+allocPage newPageEnd
+clockHand 30, index 0
+clockHand 31, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 31
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 32 
+allocPage start
+allocPage newPageEnd
+clockHand 31, index 0
+clockHand 32, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 32
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 33 
+allocPage start
+allocPage newPageEnd
+clockHand 32, index 0
+clockHand 33, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 33
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 34 
+allocPage start
+allocPage newPageEnd
+clockHand 33, index 0
+clockHand 34, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 34
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 35 
+allocPage start
+allocPage newPageEnd
+clockHand 34, index 0
+clockHand 35, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 35
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 36 
+allocPage start
+allocPage newPageEnd
+clockHand 35, index 0
+clockHand 36, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 36
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 37 
+allocPage start
+allocPage newPageEnd
+clockHand 36, index 0
+clockHand 37, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 37
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 38 
+allocPage start
+allocPage newPageEnd
+clockHand 37, index 0
+clockHand 38, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 38
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 39 
+allocPage start
+allocPage newPageEnd
+clockHand 38, index 0
+clockHand 39, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 39
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 40 
+allocPage start
+allocPage newPageEnd
+clockHand 39, index 0
+clockHand 40, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 40
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 41 
+allocPage start
+allocPage newPageEnd
+clockHand 40, index 0
+clockHand 41, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 41
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 42 
+allocPage start
+allocPage newPageEnd
+clockHand 41, index 0
+clockHand 42, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 42
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 43 
+allocPage start
+allocPage newPageEnd
+clockHand 42, index 0
+clockHand 43, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 43
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 44 
+allocPage start
+allocPage newPageEnd
+clockHand 43, index 0
+clockHand 44, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 44
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 45 
+allocPage start
+allocPage newPageEnd
+clockHand 44, index 0
+clockHand 45, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 45
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 46 
+allocPage start
+allocPage newPageEnd
+clockHand 45, index 0
+clockHand 46, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 46
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 47 
+allocPage start
+allocPage newPageEnd
+clockHand 46, index 0
+clockHand 47, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 47
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 48 
+allocPage start
+allocPage newPageEnd
+clockHand 47, index 0
+clockHand 48, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 48
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 49 
+allocPage start
+allocPage newPageEnd
+clockHand 48, index 0
+clockHand 49, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 49
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 50 
+allocPage start
+allocPage newPageEnd
+clockHand 49, index 0
+clockHand 50, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 50
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 51 
+allocPage start
+allocPage newPageEnd
+clockHand 50, index 0
+clockHand 51, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 51
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 52 
+allocPage start
+allocPage newPageEnd
+clockHand 51, index 0
+clockHand 52, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 52
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 53 
+allocPage start
+allocPage newPageEnd
+clockHand 52, index 0
+clockHand 53, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 53
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 54 
+allocPage start
+allocPage newPageEnd
+clockHand 53, index 0
+clockHand 54, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 54
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 55 
+allocPage start
+allocPage newPageEnd
+clockHand 54, index 0
+clockHand 55, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 55
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 56 
+allocPage start
+allocPage newPageEnd
+clockHand 55, index 0
+clockHand 56, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 56
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 57 
+allocPage start
+allocPage newPageEnd
+clockHand 56, index 0
+clockHand 57, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 57
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 58 
+allocPage start
+allocPage newPageEnd
+clockHand 57, index 0
+clockHand 58, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 58
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 59 
+allocPage start
+allocPage newPageEnd
+clockHand 58, index 0
+clockHand 59, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 59
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 60 
+allocPage start
+allocPage newPageEnd
+clockHand 59, index 0
+clockHand 60, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 60
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 61 
+allocPage start
+allocPage newPageEnd
+clockHand 60, index 0
+clockHand 61, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 61
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 62 
+allocPage start
+allocPage newPageEnd
+clockHand 61, index 0
+clockHand 62, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 62
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 63 
+allocPage start
+allocPage newPageEnd
+clockHand 62, index 0
+clockHand 63, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 63
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 64 
+allocPage start
+allocPage newPageEnd
+clockHand 63, index 0
+clockHand 64, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 64
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 65 
+allocPage start
+allocPage newPageEnd
+clockHand 64, index 0
+clockHand 65, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 65
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 66 
+allocPage start
+allocPage newPageEnd
+clockHand 65, index 0
+clockHand 66, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 66
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 67 
+allocPage start
+allocPage newPageEnd
+clockHand 66, index 0
+clockHand 67, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 67
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 68 
+allocPage start
+allocPage newPageEnd
+clockHand 67, index 0
+clockHand 68, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 68
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 69 
+allocPage start
+allocPage newPageEnd
+clockHand 68, index 0
+clockHand 69, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 69
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 70 
+allocPage start
+allocPage newPageEnd
+clockHand 69, index 0
+clockHand 70, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 70
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 71 
+allocPage start
+allocPage newPageEnd
+clockHand 70, index 0
+clockHand 71, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 71
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 72 
+allocPage start
+allocPage newPageEnd
+clockHand 71, index 0
+clockHand 72, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 72
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 73 
+allocPage start
+allocPage newPageEnd
+clockHand 72, index 0
+clockHand 73, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 73
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 74 
+allocPage start
+allocPage newPageEnd
+clockHand 73, index 0
+clockHand 74, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 74
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 75 
+allocPage start
+allocPage newPageEnd
+clockHand 74, index 0
+clockHand 75, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 75
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 76 
+allocPage start
+allocPage newPageEnd
+clockHand 75, index 0
+clockHand 76, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 76
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 77 
+allocPage start
+allocPage newPageEnd
+clockHand 76, index 0
+clockHand 77, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 77
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 78 
+allocPage start
+allocPage newPageEnd
+clockHand 77, index 0
+clockHand 78, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 78
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 79 
+allocPage start
+allocPage newPageEnd
+clockHand 78, index 0
+clockHand 79, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 79
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 80 
+allocPage start
+allocPage newPageEnd
+clockHand 79, index 0
+clockHand 80, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 80
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 81 
+allocPage start
+allocPage newPageEnd
+clockHand 80, index 0
+clockHand 81, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 81
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 82 
+allocPage start
+allocPage newPageEnd
+clockHand 81, index 0
+clockHand 82, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 82
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 83 
+allocPage start
+allocPage newPageEnd
+clockHand 82, index 0
+clockHand 83, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 83
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 84 
+allocPage start
+allocPage newPageEnd
+clockHand 83, index 0
+clockHand 84, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 84
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 85 
+allocPage start
+allocPage newPageEnd
+clockHand 84, index 0
+clockHand 85, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 85
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 86 
+allocPage start
+allocPage newPageEnd
+clockHand 85, index 0
+clockHand 86, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 86
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 87 
+allocPage start
+allocPage newPageEnd
+clockHand 86, index 0
+clockHand 87, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 87
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 88 
+allocPage start
+allocPage newPageEnd
+clockHand 87, index 0
+clockHand 88, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 88
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 89 
+allocPage start
+allocPage newPageEnd
+clockHand 88, index 0
+clockHand 89, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 89
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 90 
+allocPage start
+allocPage newPageEnd
+clockHand 89, index 0
+clockHand 90, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 90
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 91 
+allocPage start
+allocPage newPageEnd
+clockHand 90, index 0
+clockHand 91, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 91
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 92 
+allocPage start
+allocPage newPageEnd
+clockHand 91, index 0
+clockHand 92, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 92
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 93 
+allocPage start
+allocPage newPageEnd
+clockHand 92, index 0
+clockHand 93, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 93
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 94 
+allocPage start
+allocPage newPageEnd
+clockHand 93, index 0
+clockHand 94, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 94
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 95 
+allocPage start
+allocPage newPageEnd
+clockHand 94, index 0
+clockHand 95, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 95
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 96 
+allocPage start
+allocPage newPageEnd
+clockHand 95, index 0
+clockHand 96, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 96
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 97 
+allocPage start
+allocPage newPageEnd
+clockHand 96, index 0
+clockHand 97, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 97
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 98 
+allocPage start
+allocPage newPageEnd
+clockHand 97, index 0
+clockHand 98, index 1
+valid = false
+allocPage allocBufEnd
+allocPage pageptrassigned *page
+allocPage after file->allocatePage()
+allocPage frameNumber 98
+allocPage beforehashinsert
+allocPage afterhashinsert
+allocPage end
+unPinPage start
+index 99 
+start reading page, index 0
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 1
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 2
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 3
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 4
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 5
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 6
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 7
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 8
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 9
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 10
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 11
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 12
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 13
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 14
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 15
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 16
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 17
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 18
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 19
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 20
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 21
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 22
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 23
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 24
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 25
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 26
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 27
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 28
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 29
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 30
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 31
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 32
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 33
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 34
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 35
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 36
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 37
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 38
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 39
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 40
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 41
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 42
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 43
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 44
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 45
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 46
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 47
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 48
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 49
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 50
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 51
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 52
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 53
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 54
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 55
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 56
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 57
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 58
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 59
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 60
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 61
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 62
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 63
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 64
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 65
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 66
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 67
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 68
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 69
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 70
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 71
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 72
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 73
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 74
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 75
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 76
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 77
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 78
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 79
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 80
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 81
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 82
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 83
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 84
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 85
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 86
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 87
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 88
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 89
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 90
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 91
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 92
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 93
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 94
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 95
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 96
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 97
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 98
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+start reading page, index 99
+readPage start
+readPage before lookup
+readPage after lookup
+readPage before new page
+readPage end
+readPage return
+passed error msg
+unPinPage start
+Test 1 passed
+allocPage start
+allocPage newPageEnd
+clockHand 98, index 0
+clockHand 99, index 1
+clockHand 0, index 2
+clockHand 1, index 3
+clockHand 2, index 4
+clockHand 3, index 5
+clockHand 4, index 6
+clockHand 5, index 7
+clockHand 6, index 8
+clockHand 7, index 9
+clockHand 8, index 10
+clockHand 9, index 11
+clockHand 10, index 12
+clockHand 11, index 13
+clockHand 12, index 14
+clockHand 13, index 15
+clockHand 14, index 16
+clockHand 15, index 17
+clockHand 16, index 18
+clockHand 17, index 19
+clockHand 18, index 20
+clockHand 19, index 21
+clockHand 20, index 22
+clockHand 21, index 23
+clockHand 22, index 24
+clockHand 23, index 25
+clockHand 24, index 26
+clockHand 25, index 27
+clockHand 26, index 28
+clockHand 27, index 29
+clockHand 28, index 30
+clockHand 29, index 31
+clockHand 30, index 32
+clockHand 31, index 33
+clockHand 32, index 34
+clockHand 33, index 35
+clockHand 34, index 36
+clockHand 35, index 37
+clockHand 36, index 38
+clockHand 37, index 39
+clockHand 38, index 40
+clockHand 39, index 41
+clockHand 40, index 42
+clockHand 41, index 43
+clockHand 42, index 44
+clockHand 43, index 45
+clockHand 44, index 46
+clockHand 45, index 47
+clockHand 46, index 48
+clockHand 47, index 49
+clockHand 48, index 50
+clockHand 49, index 51
+clockHand 50, index 52
+clockHand 51, index 53
+clockHand 52, index 54
+clockHand 53, index 55
+clockHand 54, index 56
+clockHand 55, index 57
+clockHand 56, index 58
+clockHand 57, index 59
+clockHand 58, index 60
+clockHand 59, index 61
+clockHand 60, index 62
+clockHand 61, index 63
+clockHand 62, index 64
+clockHand 63, index 65
+clockHand 64, index 66
+clockHand 65, index 67
+clockHand 66, index 68
+clockHand 67, index 69
+clockHand 68, index 70
+clockHand 69, index 71
+clockHand 70, index 72
+clockHand 71, index 73
+clockHand 72, index 74
+clockHand 73, index 75
+clockHand 74, index 76
+clockHand 75, index 77
+clockHand 76, index 78
+clockHand 77, index 79
+clockHand 78, index 80
+clockHand 79, index 81
+clockHand 80, index 82
+clockHand 81, index 83
+clockHand 82, index 84
+clockHand 83, index 85
+clockHand 84, index 86
+clockHand 85, index 87
+clockHand 86, index 88
+clockHand 87, index 89
+clockHand 88, index 90
+clockHand 89, index 91
+clockHand 90, index 92
+clockHand 91, index 93
+clockHand 92, index 94
+clockHand 93, index 95
+clockHand 94, index 96
+clockHand 95, index 97
+clockHand 96, index 98
+clockHand 97, index 99
+clockHand 98, index 100
+flushFile
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 0
+Flush file index 0
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 1
+Flush file index 1
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 2
+Flush file index 2
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 3
+Flush file index 3
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 4
+Flush file index 4
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 5
+Flush file index 5
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 6
+Flush file index 6
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 7
+Flush file index 7
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 8
+Flush file index 8
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 9
+Flush file index 9
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 10
+Flush file index 10
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 11
+Flush file index 11
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 12
+Flush file index 12
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 13
+Flush file index 13
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 14
+Flush file index 14
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 15
+Flush file index 15
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 16
+Flush file index 16
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 17
+Flush file index 17
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 18
+Flush file index 18
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 19
+Flush file index 19
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 20
+Flush file index 20
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 21
+Flush file index 21
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 22
+Flush file index 22
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 23
+Flush file index 23
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 24
+Flush file index 24
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 25
+Flush file index 25
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 26
+Flush file index 26
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 27
+Flush file index 27
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 28
+Flush file index 28
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 29
+Flush file index 29
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 30
+Flush file index 30
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 31
+Flush file index 31
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 32
+Flush file index 32
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 33
+Flush file index 33
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 34
+Flush file index 34
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 35
+Flush file index 35
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 36
+Flush file index 36
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 37
+Flush file index 37
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 38
+Flush file index 38
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 39
+Flush file index 39
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 40
+Flush file index 40
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 41
+Flush file index 41
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 42
+Flush file index 42
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 43
+Flush file index 43
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 44
+Flush file index 44
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 45
+Flush file index 45
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 46
+Flush file index 46
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 47
+Flush file index 47
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 48
+Flush file index 48
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 49
+Flush file index 49
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 50
+Flush file index 50
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 51
+Flush file index 51
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 52
+Flush file index 52
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 53
+Flush file index 53
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 54
+Flush file index 54
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 55
+Flush file index 55
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 56
+Flush file index 56
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 57
+Flush file index 57
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 58
+Flush file index 58
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 59
+Flush file index 59
+flushFile dirty = true
+flushFile dirty = true
+in flush file loop, index: 60
+Flush file index 60
+flushFile dirty = true
+flushFile dirty = t
